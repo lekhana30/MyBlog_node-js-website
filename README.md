@@ -1,3 +1,5 @@
-# MyBlog_node-js-website
+
 # Artwork_node js website
-# hadoop
+A website for posting articles.
+Frontend: HTML,CSS,JavaScript,Nodejs
+Backend : Mongo db
